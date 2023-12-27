@@ -1,5 +1,8 @@
 _repo: Blackwood-s-Edinburgh-magazine-Vol-76-No-467-September-1954_72369
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 72369-h/images/cover.jpg
 creator:
   author:
     agent_name: Various
@@ -9,6 +12,8 @@ creator:
     gutenberg_agent_id: '116'
     url: http://www.gutenberg.org/2009/agents/116
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/72369#Blackwood-s-Edinburgh-magazine-Vol-76-No-467-September-1954
 gutenberg_issued: '2023-12-10'
 gutenberg_type: Text
 identifiers:
